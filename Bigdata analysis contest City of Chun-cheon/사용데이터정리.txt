@@ -1,0 +1,11 @@
+강원도 춘천시_관광지 및 상권 정밀 위치기반 이용자 실태 현황 //  https://www.data.go.kr/data/15097580/fileData.do 
+Naver 개발자센터, 통합 검색어 트렌드 (for 비율) //  https://openapi.naver.com/v1/datalab/search
+한국관광데이터랩 -  강원도 춘천시 월별 sns 검색량(상민 전처리)   //   https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do
+
+
+folium 지도관련
+통계청 통계지리정보서비스 // https://sgis.kostat.go.kr/view/index
+맵쉐이퍼 for geo_json // https://mapshaper.org/
+
+
+
