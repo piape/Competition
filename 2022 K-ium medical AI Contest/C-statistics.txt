@@ -1,0 +1,9 @@
+"C-statistics"
+AUROC = 0.994665
+
+"Model"
+Accuracy = 0.997901
+Loss = 0.003272
+
+
+
