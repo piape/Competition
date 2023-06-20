@@ -22,7 +22,7 @@ JazzIsHorse 구성원
 - 2022 Big Contest Data Analysis Competition
 - Bigdata analysis contest City of Chun-cheon
 - 2022 K-Digital Training Hackathon
-- KT GenieLabs Dev-Challenge 2022 \n
+- KT GenieLabs Dev-Challenge 2022
 
 
 
